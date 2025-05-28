@@ -7,7 +7,7 @@ export default function HealthcareDashboard() {
     <div className="flex h-screen bg-gray-50">
       <Sidebar />
       <div className="flex-1 flex flex-col">
-        <Header />
+        {/* <Header /> */}
         <DashboardMainContent />
       </div>
     </div>
